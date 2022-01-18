@@ -1,7 +1,7 @@
 require 'open-uri'
 require 'nokogiri'
 
-# VERSION 1
+# VERSION 1 😁
 
 # def scrape_movies(number)
 
@@ -30,7 +30,7 @@ require 'nokogiri'
 #     arr
 # end
 
-# VERSION 2
+# VERSION 2 😎
 
 def scrape_movies(number)
   url = 'https://www.imdb.com/chart/top'
